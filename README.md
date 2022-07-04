@@ -1,7 +1,7 @@
 # Chat App
 
 ## Structure
-- Beat.java: Client side.
+- BeatBox.java: Client side.
 - MusicServer.java: Server side.
 
 ## How to use program
